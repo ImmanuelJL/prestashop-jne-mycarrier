@@ -1,5 +1,5 @@
 # prestashop-jne-mycarrier
-# Prestashop Module untuk biaya pengiriman menggunakan ongkir.info
+Prestashop Module untuk biaya pengiriman menggunakan ongkir.info
 
 Silahkan cek http://immanueljl.blogspot.co.id untuk informasi lebih lanjut
 
